@@ -11,17 +11,14 @@ if n==2:
 endatala1=1
 endatala2=2
 endatala3=3
+#Gera formúlu sem að finnur allar í runu þar sem að runa byrjar á 1 og tölurnar hækka um summu síðustu þriggja talna í runu í hvert skipti.
 if n>3:
-    for bla in range (n):
+    for bla in range (3, n):
         endatala4=endatala1 + endatala2 + endatala3
         endatala1= endatala2
         endatala2 = endatala3
         endatala3 = endatala4
         listi.append(endatala3)
-print(listi)
-    
-        
-    
-
-#Gera formúlu sem að finnur allar í runu þar sem að runa byrjar á 1 og tölurnar hækka um summu síðustu þriggja talna í runu í hvert skipti.
 #Prenta út n- fyrstu tölurnar í formúlunni
+for kall in listi:
+    print(kall)
