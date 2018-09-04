@@ -20,5 +20,5 @@ if n>3:
         endatala3 = endatala4
         listi.append(endatala3)
 #Prenta út n- fyrstu tölurnar í formúlunni
-for kall in listi:
-    print(kall)
+for tala in listi:
+    print(tala)
