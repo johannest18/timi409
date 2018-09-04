@@ -5,3 +5,4 @@
 # Ef hún er hærri en hæsta talan sem forritið man eftir skal forritið gleyma þeirri tölu og muna þessa í staðinn.
 #Ef talan er neikvæð heiltala skal forritið prenta út hæstu tölu sem slegin hefur verið inn.
 # EF talan er jákvæð skal endurtaka frá skrefi 4
+dksljflskdhfsldfj
